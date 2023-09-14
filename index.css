@@ -1,0 +1,125 @@
+.judul{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    font-variant: small-caps;
+    text-align: left;
+}
+
+.header :hover{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.gambar{
+    background-image: url(download\ \(1\)\ smkjp1.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header a{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header a.active{
+    background: blue;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.contact p span{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.contact p{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.test{
+    color: blue;
+    line-height: 40px;
+    margin-bottom: 5px;
+}
+
+.test:hover{
+    background-color: lightblue;
+}
+
+.GTK{
+    color: red;
+    line-height: 40px;
+    margin-bottom: 5px;
+}
+
+.GTK:hover{
+    background-color: lightcoral;
+}
+
+.test3{
+    color: green;
+    line-height: 40px;
+    margin-bottom: 5px;
+}
+
+.test3:hover{
+    background-color: lawngreen;
+}
+
+.copy{
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.copy:hover{
+    background-color: aqua;
+    text-align: center;
+}
+
+.nama{
+    color: blue;
+}
+
+.hehe{
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    line-height: 500px;
+    text-decoration: underline;
+}
+
+.hehe:hover{
+    background-color: darkblue;
+    color: white;
+}
+
+h1{
+    font-variant: small-caps;
+    text-align: center;
+}
+
+h1:hover{
+    background-color: aqua;
+}
+
+.Home:active{
+    background-color: darkblue;
+    color: black;
+}
+
+.PeDik:active{
+    background-color: darkblue;
+    color: black;
+}
+
+.Contact:active{
+    background-color: darkblue;
+    color: black;
+}
